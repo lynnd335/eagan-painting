@@ -1,0 +1,18 @@
+body{
+    background-image: url(https://static.pexels.com/photos/8614/painting-black-paint-roller-large.jpg);
+    background-size: cover;
+    background-color: #000000;
+    overflow: hidden;
+    }
+
+#info{
+	font-family: helvetica;
+    color: white;
+	background-color: rgba(0, 0, 0, 0.8);
+	width: 20%;
+	height: 100%;
+	left: 0%;
+	top: 0%;
+	padding: 1%;
+	position: absolute;
+}
